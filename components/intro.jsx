@@ -17,7 +17,7 @@ export default function Intro(){
             {/* Email Button with span and handleEmailClick function */}
             <button className="email-btn" onClick={handleEmailClick}>
               <i className="fas fa-envelope"></i>
-              <span>Email</span>
+              <span>Resume</span>
             </button>
     
             {/* LinkedIn Button with handleLinkedInClick function */}
