@@ -8,6 +8,7 @@ export default function Interest(){
             <li>Data Science </li>
             <li>Maching Learning</li>
             <li>Project Management</li>
+            <li>Web and App Development</li>
         </ul>
         
 
