@@ -3,10 +3,11 @@ export default function Interest(){
          < div className="interest">
         <h2>Interests</h2>
         <ul className="interest_list">
-            <li>Software Engineering</li>
             <li>Artificial Intelligence</li>
             <li>Cloud Computing</li>
+            <li>Data Science </li>
             <li>Maching Learning</li>
+            <li>Project Management</li>
         </ul>
         
 
